@@ -1,0 +1,20 @@
+.df-footer {
+  background-color: #44505A; }
+
+.df-footer__version {
+  display: none !important; }
+
+.df-footer__legal {
+  float: left;
+  text-align: left;
+  color: #ffffff;
+  font-family: RobotoCondensed-Light !important; }
+
+.df-footer__legal > a {
+  font-family: RobotoCondensed-Light !important; }
+
+.df-logo-footer {
+  float: right;
+  width: 49px; }
+
+/*# sourceMappingURL=main.css.map */

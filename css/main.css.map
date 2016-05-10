@@ -1,0 +1,17 @@
+{
+  "version": 3,
+  "file": "main.css",
+  "sources": [
+    "../scss/main.scss",
+    "../scss/partials/_base.sass",
+    "../scss/partials/_reset.scss",
+    "../scss/partials/_buttons.scss",
+    "../scss/partials/_footer.scss",
+    "../scss/modules/_all.scss",
+    "../scss/modules/_colors.scss",
+    "../scss/modules/_typography.scss"
+  ],
+  "sourcesContent": [],
+  "mappings": "AICA,UAAU,CAAC;EACP,gBAAgB,EAAE,OAAQ,GADlB;;AAGZ,mBAAmB,CAAC;EAChB,OAAO,EAAE,IAAI,CAAA,UAAU,GADN;;AAGrB,iBAAiB,CAAC;EACd,KAAK,EAAE,IAAK;EACZ,UAAU,EAAE,IAAK;EACjB,KAAK,EEVD,OAAO;EFWX,WAAW,EGXE,qBAAqB,CHWN,UAAU,GAJvB;;AAOC,iBAAiB,GAAG,CAAC,CAAnB;EAClB,WAAW,EGfE,qBAAqB,CHeN,UAAU,GADnB;;AAIvB,eAAe,CAAC;EACZ,KAAK,EAAE,KAAM;EACb,KAAK,EAAE,IAAK,GAFC",
+  "names": []
+}
