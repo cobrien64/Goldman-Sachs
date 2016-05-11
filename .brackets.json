@@ -1,13 +1,17 @@
 {
+    "sass.enabled": false,
+    "sass.compiler": "libsass",
     "path": {
         "scss/main.scss": {
             "sass.enabled": true,
             "sass.options": {
-                "outputDir": "..\css",
+                "includePaths": [],
+                "outputDir": "../css/",
                 "imagePath": null,
-                "sourceComments": "map",
+                "sourceComments": false,
                 "outputStyle": "nested"
             },
+            "linting.collapsed": false
         }
     }
 }

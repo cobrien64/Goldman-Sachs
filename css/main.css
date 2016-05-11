@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700);
+.df-footer {
+  background-color: #44505A; }
+
+.df-footer__version {
+  display: none !important; }
+
+.df-footer__legal {
+  float: left;
+  text-align: left;
+  color: #fff;
+  font-family: "Roboto Condensed", sans-serif !important; }
+
+.df-footer__legal > a {
+  font-family: "Roboto Condensed", sans-serif !important; }
+
+.df-logo-footer {
+  float: right;
+  width: 49px; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,6 +1,6 @@
 // Footer Style
 .df-footer {
-    background-color: #44505A;
+    background-color: $brand;
 }
 .df-footer__version {
     display: none!important;
@@ -8,16 +8,15 @@
 .df-footer__legal {
     float: left;
     text-align: left;
-    color: $white;
-    font-family: $roboto!important;
+    color: #fff;
+    font-family: $font!important;
 }
 
 .df-footer__legal > a {
-    font-family: $roboto!important;
+    font-family: $font!important;
 }
 
 .df-logo-footer {
     float: right;
     width: 49px;
 }
-.hr {color: #fff}
